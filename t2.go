@@ -1,4 +1,4 @@
-package go_s3
+package go_s3_test
 
 import "fmt"
 
